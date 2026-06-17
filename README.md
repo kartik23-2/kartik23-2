@@ -57,7 +57,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+<img src="https://skillicons.dev/icons?i=python,cpp,dart,javascript" />
 </p>
 
 ### Machine Learning & AI
@@ -78,7 +78,7 @@
 ### Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,react,fastapi,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=flutter,fastapi,git,github,vscode" />
 </p>
 
 ### Databases
@@ -88,111 +88,6 @@
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-## 🤖 AI Recruiter
-
-Voice-powered AI Interview Platform
-
-### Features
-- Resume Analysis
-- AI Interview Questions
-- Speech-to-Text
-- Real-Time Feedback
-- Candidate Scoring
-
-**Tech Stack**
-Flutter • FastAPI • NLP • LLMs
-
----
-
-## 📚 Intelligent Study Assistant
-
-RAG-based Learning Assistant
-
-### Features
-- PDF Upload
-- OCR Support
-- AI Summarization
-- Question Answering
-- Auto Question Generation
-
-**Tech Stack**
-LangChain • FAISS • Hugging Face • Streamlit
-
----
-
-## 🛡️ Spam & Profanity Detection System
-
-ML-powered content moderation platform
-
-### Features
-- Spam Detection
-- Toxic Comment Detection
-- Hinglish Support
-- Real-Time Classification
-
-**Tech Stack**
-Python • Scikit-Learn • NLP
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```python
-class KartikBaliyan:
-
-    def __init__(self):
-        self.role = "ML Developer"
-        self.learning = [
-            "Generative AI",
-            "RAG Systems",
-            "Agentic AI",
-            "Deep Learning"
-        ]
-
-    def goal(self):
-        return "Build impactful AI products"
-
-me = KartikBaliyan()
-```
-
----
-
-<div align="center">
 
 ### ⭐ If you like my work, consider starring my repositories!
 
