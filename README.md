@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Kartik Baliyan
 
-### 🤖 Machine Learning Developer | Generative AI Enthusiast | Problem Solver
+### 🤖 Machine Learning Developer | Generative AI Applications | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;Building+AI+Products;Generative+AI+%26+LLMs;Data+Science+Enthusiast;Always+Learning+New+Things" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Kartik%20Baliyan&fontSize=60&fontAlignY=40&desc=Machine%20Learning%20Developer%20|%20Generative%20AI%20Engineer&descAlignY=65"/>
 
 </div>
 
