@@ -90,6 +90,5 @@
 
 ### ⭐ If you like my work, consider starring my repositories!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=for-the-badge"/>
 
 </div>
