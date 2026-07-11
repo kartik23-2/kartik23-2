@@ -28,7 +28,7 @@
 > To build impactful AI products that can be used by millions.
 
 ---
-
+<!--
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -50,6 +50,7 @@
 </p>
 
 ---
+-->
 
 # ⚡ Tech Stack
 
