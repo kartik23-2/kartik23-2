@@ -83,7 +83,9 @@
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
-
+- MySQL
+- Mongodb
+- Firebase
 ---
 
 ### ⭐ If you like my work, consider starring my repositories!
