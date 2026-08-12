@@ -9,7 +9,7 @@
 
 ---
 
-## 💫 About M
+## 💫 About Me
 
 🎓 Computer Science Engineering Student
 
