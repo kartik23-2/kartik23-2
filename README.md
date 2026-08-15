@@ -70,7 +70,7 @@
 - OpenAI APIs
 - Transformers
 - NLP
-- RAG Pipeline
+- RAG Pipelines
 
 ### Development
 
