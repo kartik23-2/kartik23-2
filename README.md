@@ -20,7 +20,7 @@
 📚 Currently exploring:
 - Large Language Models (LLMs)
 - RAG Systems
-- AI Agent
+- AI Agents
 - Deep Learning
 - MLOps
 
