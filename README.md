@@ -21,7 +21,7 @@
 - Large Language Models (LLMs)
 - RAG Systems
 - AI Agents
-- Deep Learning
+- Deep Learnings
 - MLOps
 
 💡 Goal:
