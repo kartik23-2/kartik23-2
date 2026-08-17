@@ -22,7 +22,7 @@
 - RAG Systems
 - AI Agents
 - Deep Learning
-- MLOp
+- MLOps
 
 💡 Goal:
 > To build impactful AI products that can be used by millions.
